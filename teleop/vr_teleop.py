@@ -1,7 +1,7 @@
 import socket
 import numpy as np
 
-from UR10_RTDE.rtde.rtde import RTDE
+from UR30_RTDE.rtde.rtde import RTDE
 from teleop.gripper_request import GripperRequest
 from teleop.vr_tracker import VRTracker
 
